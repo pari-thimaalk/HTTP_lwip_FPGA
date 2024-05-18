@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="kbd_eth" location="C:/Users/kpari/final_project/my_workspace/kbd_eth" platform="C:/Users/kpari/final_project/my_workspace/eth_top_with_kbd/export/eth_top_with_kbd/eth_top_with_kbd.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="kbd_eth_system" sysConfig="eth_top_with_kbd" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="d530e3ef9135ac412c9a7ee410e8529a">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1640283693">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.163370286" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="lwip_tcp_perf_client" hasBspSettings="true"/>
+</sdkproject:SdkProject>
